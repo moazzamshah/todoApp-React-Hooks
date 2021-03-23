@@ -2,10 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className = 'App'>
-      <div className="App-header">
-        
-      </div>
+    <div>
+      <h1>hello</h1>
     </div>
   )
 }
